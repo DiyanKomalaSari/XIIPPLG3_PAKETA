@@ -1,1 +1,1 @@
-ini adalah index tiga
+ini adalah index php
