@@ -1,1 +1,1 @@
-jklhashdlahdslh
+ini adalah index pertama
